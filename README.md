@@ -1,2 +1,8 @@
 # Start
-First one with opensouce
+
+
+Hi Friends
+
+I love coding. Lets enjoy doing it more.
+
+
